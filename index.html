@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en-us" dir="ltr" class="no-js ie6" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en-us" dir="ltr" class="no-js ie7" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-us" dir="ltr" class="no-js ie8" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-us" dir="ltr" class="no-js ie9" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="ltr" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en-us"><!--<![endif]--><head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		
+		<!-- Design and code by Joe Golike @golike for Trulia.com -->
+		
+		<title>Lincs Matrix</title>
+		
+		<link rel="stylesheet" media="all" href="css/insights-1.css">
+		<link rel="stylesheet" media="all" href="css/tru247.css">
+		<link rel="stylesheet" media="all" href="css/selectCss.css">
+		
+		<!--[if lt IE 9]>
+		<link rel="stylesheet" type="text/css" href="ie.css?v=1.0"/>
+		<![endif]-->
+
+		<script src="js/jquery-1.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+		<script src="https://d3js.org/d3.v4.js"></script>
+				<link rel="stylesheet" href="select2-flat-theme.css">
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.4/css/select2.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.4/js/select2.js"></script>
+		<script src="js/d3.layout.min.js"></script>
+		<script src="js/insights.js"></script>	
+		  <script>
+		  $( function() {
+			$( "#histoTabs" ).tabs();
+		  } );
+		  </script>
+	</head>
+	<body>
+		<div id="container">
+		
+			<div id="header">
+				<div id="headerTitle">
+				LINCS Matrix
+				</div>
+				<div id="headerSubtext">
+					Exploring the LINCS assay overlap
+				</div>
+			</div>
+			<div id="old_browser_msg">We're sorry but your browser is really old 
+and can't handle the full interactive experience. We recommend you 
+upgrade to the latest version as soon as possible.</div>
+			<div id='customFileLoader' style='display:none'>
+				<label style = "padding-right:200px;"> Data File</label><label style = "padding-right:100px;"> Cell Line Annotations File</label><label style = "padding-right:200px;">Compound Annotations File</label><br>
+				<input type="file" id="fileinput">
+				<input type="file" id="clannotationinput">
+				<input type="file" id="smannotationinput"><input type="button" id="fileButton" value="Load File"><br>
+			</div>
+			<div id="fileSelectDiv">
+				<select id="fileSelect">
+					<option value='Option1_SM_only_ordered.csv'>SM_only</option>
+					<option value='Option2_Cell_only_ordered.csv'>Cell_only</option>
+					<option value='Option3_ListOfAllPairsWithConcTime.csv'>ListOfAllPairs</option>
+				</select>
+				<input type="button" id="fileButton2" value="Load Data"><br>
+			</div>
+			<br>
+			<div id="filterTitle">
+			Filters <div id="collapseFilter" style="display:inline-block;border: 2px solid #dce4ec;">+</div>
+			</div>
+			<div id="filterDivs" style="display:none;">
+				<div id="assayFilterDiv" class="filterBoxes">
+					<select id="assayNameFilter" name="assays[]" multiple="multiple" style='display:none' class="filterItemBox">
+						<option> Loading </option>
+					</select>
+					<select id="assayNameLogic" name="assays[]" style='display:none' class="filterORBox">
+						<option> Or </option>
+						<option> And </option>
+					</select>
+					<select id="assayFilter" style='display:none' class="filterItemBox">
+						<option> Loading </option>
+					</select>
+				</div>
+				<div id="cellFilterDiv" style='display:none' class="filterBoxes">
+					<select id="cellNameFilter" name="assays[]" multiple="multiple"class="filterItemBox">
+						<option> Loading </option>
+					</select>
+					<div class="filterORBox" style='display:inline-block'>
+						&nbsp;
+					</div>
+					<select id="cellOrganFilter" name="assays[]" multiple="multiple" class="filterItemBox">
+						<option> Loading </option>
+					</select>
+					<div class="filterORBox" style='display:inline-block'>
+						&nbsp;
+					</div>
+					<select id="cellDiseaseFilter" name="assays[]" multiple="multiple" class="filterItemBox">
+						<option> Loading </option>
+					</select>
+					<select id="cellDiseaseLogic" name="assays[]" class="filterORBox">
+						<option> Or </option>
+						<option> And </option>
+					</select>
+				</div>
+				<div id="compoundFilterDiv" style='display:none' class="filterBoxes">
+					<select id="compoundMOAFilter" name="assays[]" multiple="multiple" class="filterItemBox">
+						<option> Loading </option>
+					</select>
+					<select id="compoundMOALogic" name="assays[]" class="filterORBox" >
+						<option> Or </option>
+						<option> And </option>
+					</select>
+					<select id="compoundTargetFilter" name="assays[]" multiple="multiple" class="filterItemBox">
+						<option> Loading </option>
+					</select>
+					<select id="compoundTargetLogic" name="assays[]" class="filterORBox">
+						<option> Or </option>
+						<option> And </option>
+					</select>
+				</div>
+				<div  class="filterBoxes">
+					<input type="button" id="filterbutton" value="Filter">
+					<input type="button" id="downloadbutton" value="Download Current Set" disabled>
+				</div>
+			</div>
+			<br>
+			<div id='heatmap'>
+				<div id='heatmapData'>
+				</div>
+			</div>
+
+			<div id="histogramBox">
+				
+				<div id="histoTabs">
+					<ul>
+						<li><a href="#assayXcombo">Pairs Count</a></li>
+						<li><a href="#assayXcell">Cell Line Count</a></li>
+						<li><a href="#assayXcompound">Compound Count</a></li>
+					</ul>
+					<div id="assayXcombo" class="assayHisto histo">&nbsp;</div>
+					<div id="assayXcell" class="assayHisto histo">&nbsp;</div>
+					<div id="assayXcompound" class="assayHisto histo">&nbsp;</div>
+				</div>
+				<div id="sideBox">
+					<div id="legend" class="rbow2" style="display:inline-block">
+						<ul>
+							<li class="q1-11"></li>
+							<li class="q2-11"></li>
+							<li class="q3-11"></li>
+							<li class="q4-11"></li>
+							<li class="q5-11"></li>
+							<li class="q6-11"></li>
+							<li class="q7-11"></li>
+							<li class="q8-11"></li>
+							<li class="q9-11"></li>
+							<li class="q10-11"></li>
+							<li class="q11-11" id='devMode'></li>
+						</ul>
+						<p class="more">fewer assays</p>
+						<p class="less">less assays</p>
+					</div>
+					<div id="zoomDiv">
+							<div style="text-align: center;">Zoom</div>
+							+ <input min="0" max="1000" value="0" class="slider" id="zoomSlider" type="range"> -
+							<div id="zoomSpacer">&nbsp;</div>
+					</div>
+					<br>
+					<div id="legend" class="rbow2" style="display:inline-block">
+						For performance reasons only the first 10,000 results will be displayed in the table above
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="js/tru247.js"></script>
+	</div>	
+</body></html>

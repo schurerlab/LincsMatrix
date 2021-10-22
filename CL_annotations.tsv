@@ -1,0 +1,1191 @@
+LINCS_ID	CL_Name	Cell_Category	Center	Assay	Organ	Disease	StudyArea
+LCL-1460	MCF-7	Cell Line	HMS_LINCS;MEP_LINCS;BroadT_LINCS;PCCSE;CMT_MGH;HMS_LINCS;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell count assay;MEMA cell growth assay;L1000 mRNA profiling assay;Global chromatin epigenetic profiling assay;P100 phosphoprotein quantification assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging morphology assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	breast adenocarcinoma	Imaging;Transcriptomics;Proteomics;Epigenomics;Binding
+LCL-1902	Tera-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	testes	testicular germ cell cancer	Imaging
+LCL-1929	JHH-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1550	KYSE-450	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	esophagus	esophageal squamous cell carcinoma	Imaging
+LCL-1473	MT-3	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	breast	breast carcinoma	Imaging
+LCL-1903	NCC-IT-A3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	testes	mediastinum teratoma	Imaging
+LCL-1706	DSH1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary tract	bladder carcinoma	Imaging
+LCL-1182	LS174T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma;colon adenocarcinoma	Imaging
+LCL-1337	LS411N	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	cecum adenocarcinoma	Imaging
+LCL-2106	HUVEC	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
+LCL-1695	FU-OV-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovarian carcinoma	Imaging
+LCL-1018	MOLT-16	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-2009	KM-H2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system		Imaging
+LCL-1694	A2780ADR	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovarian carcinoma	Imaging
+LCL-1247	IGR-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1263	WM35	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1111	BV-173	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1439	ES1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1338	LS513	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	cecum adenocarcinoma	Imaging
+LCL-1542	SiHa	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervical squamous cell carcinoma	Imaging
+LCL-1366	AM-38	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1495	EN	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	endometrial carcinoma	Imaging
+LCL-1131	Farage	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1708	647V	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	urinary bladder	bladder transitional cell carcinoma	Imaging
+LCL-2074	HCC2185	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast	ductal carcinoma	Imaging
+LCL-1043	ALL-PO	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1390	SF539	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1614	NCI-H1944	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	adenocarcinoma	Imaging
+LCL-1867	COLO 668	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1135	SU-DHL-16	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1990	SJNB-12	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1836	NCI-H1092	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1604	HCC15	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	lung	non-small cell lung carcinoma	Imaging;Transcriptomics
+LCL-1258	VMRC-MELG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1615	NCI-H2085	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	adenocarcinoma	Imaging
+LCL-1833	HCC33	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1168	RKO	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	intestine	colorectal carcinoma;colon carcinoma	Transcriptomics;Imaging
+LCL-1713	HT-1197	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder transitional cell carcinoma;bladder carcinoma	Imaging
+LCL-2107	JURKAT;Jurkat	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
+LCL-2025	Raji	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-2015	2B8	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1829	CPC-N	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1281	SK-MEL-24	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1636	DV-90;DV90	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	lung	lung adenocarcinoma;non small cell lung cancer| adenocarcinoma	Imaging;Transcriptomics
+LCL-1789	ETK-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	biliary tract	bile duct carcinoma	Imaging
+LCL-1477	COLO 824	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	breast carcinoma	Imaging
+LCL-1983	GI-ME-N	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-2123	MCF 10A F3aN400T32A/S253A/S315A-Venus-P2A-NLS-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging protein state assay	breast		Imaging
+LCL-1245	COLO 849	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1783	NCI-H1581	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung large cell carcinoma	Imaging
+LCL-1885	MKN7	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1971	SK-N-SH	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-2022	Namalwa	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1190	CW-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-1223	SCC-25	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1845	NCI-H1963	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1945	VA-ES-BJ;WSUDLCL2	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	miscellaneous	peripheral epithelioid sarcoma	Imaging;Transcriptomics
+LCL-1364	U-87MG ATCC	Cell Line	CMT_MGH;Yale_LINCS	Fluorescence imaging cell growth inhibition assay;ELISA protein secretion profiling assay	brain	glioblastoma	Binding;Imaging
+LCL-1083	HL-60/MX2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1628	NCI-H1155	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1250	IPC-298	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1849	NCI-H211	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1293	BeWo	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	placental choriocarcinoma	Imaging
+LCL-1905	Lu-65A	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung giant cell carcinoma	Imaging
+LCL-1611	NCI-H1568	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma;non-small cell lung carcinoma	Imaging
+LCL-1483	KPL-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	breast carcinoma	Imaging
+LCL-1254	RPMI-7951	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1967	SK-N-MC-IXC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1022	RPMI-8402	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1825	COR-L279	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1687	B-CPAP	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	thyroid carcinoma	Imaging
+LCL-1011	C8166	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1523	OV-90	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-1318	MFM-223	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	carcinoma	Imaging
+LCL-1300	C-33 A	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervix carcinoma	Imaging
+LCL-1429	NY	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1637	NCI-H1437	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1039	Reh	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1172	COLO 201	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-2142	HA1E.101	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	kidney		Transcriptomics
+LCL-1350	DK-MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1376	D-542MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1820	RERF-LC-MA	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1704	Ej138	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-2137	MCF7.101	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	breast		Transcriptomics
+LCL-1382	KNS-42	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1601	A-549	Cell Line	BroadT_LINCS;PCCSE;CMT_MGH;Yale_LINCS	L1000 mRNA profiling assay;Global chromatin epigenetic profiling assay;P100 phosphoprotein quantification assay;Fluorescence imaging cell growth inhibition assay;ELISA protein secretion profiling assay	lung	non-small cell lung carcinoma	Transcriptomics;Proteomics;Epigenomics;Binding;Imaging
+LCL-1889	SNU-16	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1667	LC-2/ad	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1019	MOLT-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1738	MIA PaCa-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1878	STC 1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1029	J45.01	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1050	CESS	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1148	SCH	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach cancer	Imaging
+LCL-1175	DLD-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-1496	HEC-1	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	uterus	endometrial adenocarcinoma;endometrial cancer;uterine cancer	Imaging
+LCL-1394	CCF-STTG1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	astrocytoma	Imaging
+LCL-2047	MOLP-8	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	myeloma	Imaging
+LCL-1380	KALS-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1737	Hs 766T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1948	BC-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1170	Caco-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-1322	ZR-75-30	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	invasive ductal carcinoma	Binding;Imaging
+LCL-1072	THP-1;THP1	Cell Line	CMT_MGH;HMS_LINCS;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;KiNativ kinase-small molecule binding assay;L1000 mRNA profiling assay	blood		Binding;Imaging;Transcriptomics
+LCL-1567	TE-12	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1251	Mel Ho	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-2083	HME1;hTERT-HME1	Cell Line	BroadT_LINCS;HMS_LINCS	L1000 mRNA profiling assay;Fluorescence imaging cell count assay	breast		Transcriptomics;Imaging
+LCL-1294	CAL-39	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	vulva	vulva squamous cell carcinoma	Imaging
+LCL-2032	EB3 [Human Burkitt lymphoma]	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1984	IMR-5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1562	T.Tn	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1744	PaTu 8902	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1016	KE-37	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1138	SU-DHL-6	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1128	SCC-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1381	KINGS-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1541	Ca Ski	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	cervix	cervical squamous cell carcinoma	Imaging
+LCL-1866	SBC-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1499	AN3-CA	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	endometrial cancer	Imaging
+LCL-1856	NCI-H510A	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-2152	HEK293T	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	kidney		Transcriptomics
+LCL-1271	CP66-MEL	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-2143	HELA.311	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	large intestine		Transcriptomics
+LCL-1208	BHY	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	oral cavity cancer	Imaging
+LCL-1023	SUP-T1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-2007	HDLM-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system		Imaging
+LCL-1319	UACC-812	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell count assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	invasive ductal carcinoma	Imaging;Binding
+LCL-1073	NKM-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1537	RERF-GC-1B	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric adenocarcinoma	Imaging
+LCL-1457	CAL-78	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	chondrosarcoma	Imaging
+LCL-1699	OAW42	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovarian carcinoma	Imaging
+LCL-1662	NCI-H1838	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1658	RERF-LC-KJ	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1497	Ishikawa	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	uterus	endometrial adenocarcinoma	Imaging
+LCL-1284	A373-C6	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1501	MFE-296	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	endometrial carcinoma	Imaging
+LCL-1503	SNGM;SNG-M	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	uterus	endometrial adenocarcinoma;endometrial carcinoma	Transcriptomics;Imaging
+LCL-1362	M059K	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-2038	J.gamma1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	leukemia	Imaging
+LCL-1940	HuH-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-2060	JKT-beta-del	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1314	HCC1419	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell count assay	breast	invasive ductal carcinoma	Binding;Imaging
+LCL-1365	8-MG-BA	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1374	D-423MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1813	NCI-H196	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1951	Sci-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1702	5637	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	urinary bladder	bladder carcinoma	Imaging
+LCL-1340	NCI-H747	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	cecum adenocarcinoma	Imaging
+LCL-1841	NCIH1694;NCI-H1694	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Transcriptomics;Imaging
+LCL-2162	SNUC4	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
+LCL-1575	LB771-HNC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	esophagus squamous cell carcinoma	Imaging
+LCL-1735	HPAC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1673	NCI-H1666	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	adenocarcinoma	Imaging
+LCL-1927	Hep-G2/C3A	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1844	NCI-H1882	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1787	EGI-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	biliary tract	bile duct carcinoma	Imaging
+LCL-1668	LXF 289	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1802	SK-NEP-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal Wilms tumor	Imaging
+LCL-1799	SW1573	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	bronchiolo-alveolar adenocarcinoma	Imaging
+LCL-2146	NKDBA	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	kidney		Transcriptomics
+LCL-1840	NCI-H1618	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1888	SNU-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1740	Panc 03.27	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1239	COLO 792	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1657	RERF-LC-Ad1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1847	NCI-H209	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1597	NCI-H226	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1800	OCUG-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	gall bladder	gallbladder carcinoma	Imaging
+LCL-1671	NCI-H358	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-2056	HL60RG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1963	SK-N-BE(2)-C	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-2147	OV7	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	ovary		Transcriptomics
+LCL-1854	NCI-H345	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1435	HT-1080	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	fibrosarcoma	Imaging
+LCL-2019	DG-75	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1034	CEM/C1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-2103	NGP	Cell Line	HMS_LINCS	KiNativ kinase-small molecule binding assay	nervous system	neuroblastoma	Binding
+LCL-1246	G-361	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1060	ML-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-2023	P32/ISH	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1416	PA-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	teratocarcinoma	Imaging
+LCL-1934	SNU-398	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1303	DoTc2 4510	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervix carcinoma	Imaging
+LCL-1061	MOLM-13	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1599	NCI-H2023	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1220	OSC-20	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	tongue cancer	Imaging
+LCL-1145	22Rv1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	prostate	prostate carcinoma	Imaging
+LCL-1839	NCI-H1522	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1689	HTC-C3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	thyroid carcinoma	Imaging
+LCL-1753	MFH-ino	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	fibrous histiocytoma	Imaging
+LCL-1747	SU.86.86	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1321	ZR-75-1	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	invasive ductal carcinoma	Imaging;Binding
+LCL-1160	COLO 678	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1412	KYM-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	muscle	rhabdomyosarcoma	Imaging
+LCL-1688	BHT-101	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	thyroid carcinoma	Imaging
+LCL-1092	MV4-11	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1592	RERF-LC-Sq1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1557	KYSE-70	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1140	MHH-PREB-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-2006	Hs 445	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Hodgkins lymphoma	Imaging
+LCL-1519	Caov-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-1782	LCLC-97TM1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung large cell carcinoma	Imaging
+LCL-1367	B2-17	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1044	BE-13	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1317	MDA-MB-175-VII	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell count assay	breast	invasive ductal carcinoma	Binding;Imaging
+LCL-1664	PC-3 [JPC-3]	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1946	MC116	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	precursor B lymphoblastic lymphoma/leukemia	Imaging
+LCL-1966	Kelly	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1217	HSC-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1650	NCI-H2087	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1565	TE-10	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1075	QIMR-WIL	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1099	JVM-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1132	NU-DUL-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1808	DMS 53	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1470	MDA-MB-436	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell count assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	adenocarcinoma	Imaging;Binding
+LCL-2134	A375.311	Cell Line	BroadT_LINCS;PCCSE	L1000 mRNA profiling assay;Global chromatin epigenetic profiling assay;P100 phosphoprotein quantification assay	skin		Transcriptomics;Proteomics;Epigenomics
+LCL-1354	LN-229	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1770	RXF 393L	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1027	I 2.1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1307	MDA-MB-435S	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	skin	malignant melanoma	Imaging
+LCL-1265	SK-MEL-1;SKMEL1	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	skin	melanoma;malignant melanoma	Imaging;Transcriptomics
+LCL-1125	U-937;U937	Cell Line	CMT_MGH;Yale_LINCS;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;ELISA protein secretion profiling assay;L1000 mRNA profiling assay	lymphatic system	B-cell lymphocytic neoplasm;diffuse large B-cell lymphoma;non-Hodgkin's lymphoma	Binding;Imaging;Transcriptomics
+LCL-1893	AGS	Cell Line	CMT_MGH;HMS_LINCS;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay;L1000 mRNA profiling assay	stomach	gastric adenocarcinoma	Imaging;Transcriptomics
+LCL-2154	HS27A	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	bone		Transcriptomics
+LCL-1101	JURL-MK1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1002	MY-M12	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1222	SCC-15	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1054	HL-60;HL60	Cell Line	CMT_MGH;BroadT_LINCS;PCCSE	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay;P100 phosphoprotein quantification assay	blood	acute myeloid leukemia;acute myelogenous leukemia (AML)| M3 (promyelocytic)	Imaging;Transcriptomics;Proteomics
+LCL-1805	RMGI;RMG-I	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	ovary	ovarian clear cell adenocarcinoma	Transcriptomics;Imaging
+LCL-2042	EJM	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	myeloma	Imaging
+LCL-1106	Ku812	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1696	A2780cis	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovarian carcinoma	Imaging
+LCL-1273	HT-144	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1372	D-336MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1793	KP-1N	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreatic carcinoma	Imaging
+LCL-1527	OVSAYO	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-1928	JHH-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1733	Capan-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1339	NCI-H716;NCIH716	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	intestine	cecum adenocarcinoma	Imaging;Transcriptomics
+LCL-1915	VAL	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	adult acute lymphocytic leukemia	Imaging
+LCL-1342	A-388	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	carcinoma	Imaging
+LCL-2040	KY821A3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	myeloid leukemia	Imaging
+LCL-2067	SUM149PT	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-1943	639V	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ureter	ureter transitional cell carcinoma	Imaging
+LCL-1968	SCCH-26	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1071	SIG-M5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-2095	BPH-1	Cell Line	HMS_LINCS;HMS_LINCS	Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	prostate	male reproductive benign neoplasm	Imaging
+LCL-1076	HEL 92.1.7	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1152	SW962	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	vulva	vulva carcinoma	Imaging
+LCL-1407	PFSK-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	oligodendroglioma	Imaging
+LCL-1326	HCC1599	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	invasive ductal carcinoma	Imaging
+LCL-2041	ARH-77	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	myeloma	Imaging
+LCL-1280	SH-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1375	D-502MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1865	SBC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1187	SW-948	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma;colon adenocarcinoma	Imaging
+LCL-1926	Huh-7;Huh7	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	liver	hepatocellular carcinoma	Imaging;Transcriptomics
+LCL-1309	BT-483	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	invasive ductal carcinoma	Imaging;Binding
+LCL-1976	NB(TU)1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-2079	SVG p12	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain		Imaging
+LCL-1085	EHEB	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1827	COR-L88	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1864	NCI-H889	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1420	G-292 clone A141B1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-2153	HEKTE	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	kidney		Transcriptomics
+LCL-1423	HuO9	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1855	NCI-H446	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1647	NCI-H2009	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1393	1321N1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	astrocytoma	Imaging
+LCL-1722	VM-CUB-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-1933	SNU-387	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1725	KP-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreatic ductal adenocarcinoma	Imaging
+LCL-1811	NCI-H1688	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1752	GCT	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	fibrous histiocytoma	Imaging
+LCL-1357	T98G	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1196	CoCM-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1264	WM793	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1335	HCC70	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	invasive ductal carcinoma	Imaging;Binding
+LCL-1944	Sc-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system		Imaging
+LCL-1843	NCI-H187	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1571	TE-8	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1816	NCI-H2196	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-2129	HCC1954	Cell Line	MEP_LINCS	MEMA cell growth assay	breast		Imaging
+LCL-1504	COLO 684	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	endometrial carcinoma	Imaging
+LCL-1766	LB2241-RCC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1048	SK-PN-DW	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1921	BFTC-909	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal pelvis transitional cell carcinoma	Imaging
+LCL-1214	BICR 31	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	tongue cancer	Imaging
+LCL-1446	EW-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1910	Lu-99C	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung giant cell carcinoma	Imaging
+LCL-2084	HCC515	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	lung		Transcriptomics
+LCL-2136	PC3.311	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	prostate		Transcriptomics
+LCL-1624	NCI-H1385	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1510	MES-SA/Dx5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	uterine cancer	Imaging
+LCL-1049	BDCM	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1123	REC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-2139	A549.311	Cell Line	BroadT_LINCS;PCCSE	L1000 mRNA profiling assay;Global chromatin epigenetic profiling assay;P100 phosphoprotein quantification assay	lung		Transcriptomics;Proteomics;Epigenomics
+LCL-1087	Karpas-231	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1851	NCI-H2171	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1226	Detroit 562	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1521	EFO27;EFO-27	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	ovary	mucinous papillary adenocarcinoma;ovary adenocarcinoma	Transcriptomics;Imaging
+LCL-1397	MOG-G-UVW	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	astrocytoma	Imaging
+LCL-1345	LNZTA3WT4	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	brain	glioblastoma	Imaging
+LCL-1487	MRK-nu-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	breast carcinoma	Imaging
+LCL-1402	Hs 683	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	malignant glioma	Imaging
+LCL-1560	KYSE-50	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1025	ATN-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1655	NCI-H2405	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1972	SK-N-BE(2)-M17	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1540	SCaBER	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder squamous cell carcinoma	Imaging
+LCL-1047	HCE-T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	esophagus squamous cell carcinoma	Imaging
+LCL-1877	Lu-134-A	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1017	Loucy	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1323	DU4475	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	invasive ductal carcinoma	Imaging
+LCL-1316	MDA-MB-134-VI	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell count assay	breast	invasive ductal carcinoma	Binding;Imaging
+LCL-1464	CAL-148	Cell Line	HMS_LINCS;CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	breast adenocarcinoma	Imaging
+LCL-1506	RL95-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	uterine cancer	Imaging
+LCL-1654	NCI-H2342	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1980	SK-N-BE(2)	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1105	KCL-22	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1543	SKG-IIIb	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervical squamous cell carcinoma	Imaging
+LCL-1950	RC-K8	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1150	HuTu 80	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging apoptosis assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell cycle state assay	intestine	duodenum adenocarcinoma	Imaging
+LCL-1579	ChaGo-K-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	bronchogenic carcinoma	Imaging
+LCL-1723	KP-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1511	G-401	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	kidney rhabdoid cancer	Imaging
+LCL-2068	SUM159PT	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-1286	SK-LMS-1	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	uterus	Leiomyosarcoma	Imaging
+LCL-2063	TUR	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1287	NCI-H630	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	rectum adenocarcinoma	Imaging
+LCL-1199	CL-40	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1437	FLYA13	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	fibrosarcoma	Imaging
+LCL-1336	LS1034	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	cecum adenocarcinoma	Imaging
+LCL-2054	EKVX	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-2075	HCC3153	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-1675	NCI-H3122	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1211	SKN-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	oral cavity cancer	Imaging
+LCL-1052	GDM-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1324	HCC1187	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell count assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	invasive ductal carcinoma	Imaging;Binding
+LCL-1492	JEG-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	choriocarcinoma	Imaging
+LCL-1768	OS-RC-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1773	786-O	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal clear cell carcinoma	Imaging
+LCL-1892	TGBC11TKB	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1870	LB647-SCLC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1584	EBC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1986	KP-N-YS	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1756	ACHN	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1465	CAL-85-1	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay	breast	breast adenocarcinoma	Imaging
+LCL-1234	IST-MEL1	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell cycle state assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay	skin	malignant melanoma	Imaging
+LCL-1065	OCI-AML2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1255	RVH-421	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging apoptosis assay;RPPA protein state assay;Fluorescence imaging cell growth inhibition assay	skin	malignant melanoma	Proteomics;Imaging
+LCL-1489	OCUB-M	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	breast carcinoma	Imaging
+LCL-1171	CCK-81	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1004	KY821	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute leukemia	Imaging
+LCL-1121	OCI-Ly19	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1219	OSC-19	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	tongue cancer	Imaging
+LCL-1585	HARA	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1096	MO-T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1098	PL4	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	pancreas	pancreatic carcinoma	Imaging
+LCL-2132	AU565	Cell Line	MEP_LINCS	MEMA cell growth assay	breast		Imaging
+LCL-1466	CAMA-1	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell count assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	adenocarcinoma	Imaging;Binding
+LCL-1906	Lu-65B	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung giant cell carcinoma	Imaging
+LCL-1104	K562/Adr	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1661	NCI-H1563	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1832	DMS 79	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-2048	OPM-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	myeloma	Imaging
+LCL-1900	NEC8	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	testes	testicular germ cell cancer	Imaging
+LCL-1126	Granta-519	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	lymphoma	Imaging
+LCL-1701	Kuramochi	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovarian carcinoma	Imaging
+LCL-1283	UACC-257	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1370	D-247MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1956	BC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1648	NCI-H2030	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1937	SNU-475	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1058	KMOE-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1201	FaDu	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	carcinoma	Imaging
+LCL-2001	NUGC-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric signet ring cell adenocarcinoma	Imaging
+LCL-1278	MZ-MEL-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1590	NCI-H2170	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1871	Lu-134-A	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-2092	SKMEL28;SK-MEL-28	Cell Line	BroadT_LINCS;HMS_LINCS;HMS_LINCS	L1000 mRNA profiling assay;Fluorescence imaging apoptosis assay;RPPA protein state assay	skin	malignant melanoma	Transcriptomics;Imaging;Proteomics
+LCL-1235	A-375;A375	Cell Line	CMT_MGH;HMS_LINCS;PCCSE;HMS_LINCS;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging protein state assay;Global chromatin epigenetic profiling assay;P100 phosphoprotein quantification assay;KiNativ kinase-small molecule binding assay;L1000 mRNA profiling assay	skin	malignant melanoma	Imaging;Proteomics;Epigenomics;Binding;Transcriptomics
+LCL-1415	Rh41	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	muscle	rhabdomyosarcoma	Imaging
+LCL-1383	KNS-81-FD	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1894	Fu97	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	stomach	gastric adenocarcinoma	Imaging
+LCL-1304	HT-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervix carcinoma	Imaging
+LCL-1218	HSC-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1084	NB4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1989	SJNB-10	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1566	TE-11	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1001	MY	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1158	COLO 741	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1315	Hs 578T	Cell Line	HMS_LINCS;HMS_LINCS;CMT_MGH;HMS_LINCS;HMS_LINCS;BroadT_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging morphology assay;L1000 mRNA profiling assay	breast	breast ductal carcinoma	Imaging;Binding;Transcriptomics
+LCL-1053	HEL	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1221	SAS	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1606	HCC44	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1665	RERF-LC-MS	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1880	SW982	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	synovial sarcoma	Imaging
+LCL-1179	Hs 257.T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-1619	NCI-H23	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	adenocarcinoma	Imaging
+LCL-1988	LA-N-6	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1205	BICR 78	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	oral cavity cancer	Imaging
+LCL-1997	SJNB-7	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1923	JHH-6	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	liver	hepatocellular carcinoma	Imaging
+LCL-1718	SW780	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-2029	Namalwa.PNT	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1434	SK-ES-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1837	NCI-H1417	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1531	COLO 704	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-2145	RMUGS	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	ovary		Transcriptomics
+LCL-1433	SJSA-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1973	CHP-126	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1079	TF-1a	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1458	H-EMC-SS	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	chondrosarcoma	Imaging
+LCL-2026	ST486	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1769	RCC10RGB	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1010	MN-60	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1244	COLO 818	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1301	C-4-I	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervix carcinoma	Imaging
+LCL-1494	EFE-184	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	endometrial carcinoma	Imaging
+LCL-1887	NUGC-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1932	SNU-182	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-2155	JHUEM2	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	endometrium		Transcriptomics
+LCL-1476	BT-20	Cell Line	BroadT_LINCS;CMT_MGH;HMS_LINCS;HMS_LINCS;HMS_LINCS;HMS_LINCS	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell count assay;Fluorescence imaging morphology assay	breast	ductal carcinoma;ductal carcinoma, breast carcinoma	Transcriptomics;Binding;Imaging
+LCL-1626	Calu-6	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1955	WSU-NHL	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1292	SW837	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	rectum adenocarcinoma	Imaging
+LCL-1561	T.T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1257	SK-MEL-30	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1996	SJNB-6	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1772	769-P	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal clear cell carcinoma	Imaging
+LCL-2024	P3HR-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1070	PL21;PL-21	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	blood	acute myelogenous leukemia| promyelocytic;acute myeloid leukemia	Transcriptomics;Imaging
+LCL-1558	OE21	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1267	A101D	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1578	ONS-76	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	medulloblastoma	Imaging
+LCL-2090	HA1E	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
+LCL-1093	NALM-19	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1419	CAL-72	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1038	P30/OHK	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1780	CORL23;COR-L23	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	lung	non small cell lung cancer| large cell carcinoma;lung large cell carcinoma	Transcriptomics;Imaging
+LCL-1331	HCC1937	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell count assay	breast	invasive ductal carcinoma	Binding;Imaging
+LCL-1659	SK-LU-1;SKLU1	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	lung	lung adenocarcinoma;non small cell lung cancer| adenocarcinoma	Imaging;Transcriptomics
+LCL-1243	COLO 783	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1377	D-566MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1553	KYSE-30	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1285	HMV-II	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1238	C32	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging apoptosis assay;RPPA protein state assay;Fluorescence imaging cell growth inhibition assay	skin	malignant melanoma	Imaging;Proteomics
+LCL-1532	23132/87	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric adenocarcinoma	Imaging
+LCL-1155	NCI-H720	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung cancer	Imaging
+LCL-1874	NCI-H64	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-2046	LP-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	myeloma	Imaging
+LCL-2000	SH-SY5Y;SHSY5Y	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	nervous system	neuroblastoma	Imaging;Transcriptomics
+LCL-2012	L-540	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system		Imaging
+LCL-1572	TE-9	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1528	OVTOKO	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-1891	GCIY	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1256	SK-MEL-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1063	Mono-Mac-6	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1641	NCI-H1734	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1958	IM-9	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1517	SK-OV-3	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	ovary	ovarian adenocarcinoma	Imaging
+LCL-1212	PE/CA-PJ15	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	head and neck	tongue squamous carcinoma	Imaging
+LCL-1472	CAL-51	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	breast	breast carcinoma	Imaging
+LCL-1422	HuO-3N1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1184	SK-CO-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1269	COLO 829	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1378	GB-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1755	KMRC-20	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	kidney	renal cell adenocarcinoma	Imaging
+LCL-1103	K-562	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1776	MSTO-211H	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pleura	malignant biphasic mesothelioma	Imaging
+LCL-1819	NCI-H841	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1974	GOTO	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1785	NCI-H661	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung large cell carcinoma	Imaging
+LCL-1231	A375.S2	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	skin	malignant melanoma	Imaging
+LCL-1078	TF-1.CN5a.1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1669	NCI-H1355	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1781	LCLC-103H	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung large cell carcinoma	Imaging
+LCL-1066	OCI-AML3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1207	KON	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1077	TF-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1311	EFM-19	Cell Line	HMS_LINCS;CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	breast ductal adenocarcinoma	Imaging
+LCL-1901	NTERA-S-cl-D1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	testes	testicular germ cell cancer	Imaging
+LCL-2055	Eos-HL-60	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-2081	184B5	Cell Line	HMS_LINCS;HMS_LINCS	Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell count assay	breast		Binding;Imaging
+LCL-1726	PANC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreatic carcinoma	Imaging
+LCL-1005	BALL-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1232	COLO 679	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	skin	malignant melanoma	Imaging
+LCL-1596	NCI-H157	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1440	ES3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1392	YH-13	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1325	HCC1500	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	ductal carcinoma	Binding;Imaging
+LCL-1623	NCI-H838	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	adenocarcinoma	Imaging
+LCL-1351	GaMG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1931	JHH-7	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1890	SNU-5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1261	WM1552C	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging apoptosis assay;RPPA protein state assay;Fluorescence imaging protein state assay;Fluorescence imaging cell growth inhibition assay	skin	malignant melanoma	Imaging;Proteomics
+LCL-1716	RT-112	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-1786	NCIH596;NCI-H596	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	lung	non small cell lung cancer| adenosquamous carcinoma;adenosquamous cell lung carcinoma	Transcriptomics;Imaging
+LCL-1982	ACN	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-2030	EB1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1136	SU-DHL-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1248	IGR-37	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1544	SW756	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervical squamous cell carcinoma	Imaging
+LCL-1823	SHP-77	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1174	COLO 320	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	adenocarcinoma	Imaging
+LCL-2037	H33HJ-JA1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1607	HCC78	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-2016	BL-70	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-2131	HMEC240L	Cell Line	MEP_LINCS	MEMA cell growth assay	breast		Imaging
+LCL-1003	MY-M13	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1554	KYSE-410	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1515	EFO-21	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-1279	MZ-MEL-7	Cell Line	HMS_LINCS;HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging apoptosis assay;RPPA protein state assay;Fluorescence imaging cell growth inhibition assay	skin	malignant melanoma	Proteomics;Imaging
+LCL-1021	PF-382	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-2045	L-363	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	myeloma	Imaging
+LCL-1535	MKN45	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric adenocarcinoma	Imaging
+LCL-1672	NCI-H650	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1371	D-263MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1130	Ci-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1534	IM95m	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric adenocarcinoma	Imaging
+LCL-1197	COLO 320DM	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-1482	JIMT-1	Cell Line	HMS_LINCS;CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	breast carcinoma;invasive ductal carcinoma	Imaging
+LCL-1031	MOLT-4F	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1178	HCT 15	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-1151	EC-GI-10	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophageal carcinoma	Imaging
+LCL-1237	A2058	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1074	NOMO-1;NOMO1	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	blood	acute myeloid leukemia;acute myeloid leukemia (AML)	Imaging;Transcriptomics
+LCL-1359	U-138MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1530	TOV-21G	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-2050	U266B1;U266	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	blood	myeloma;myeloman, haematopoietic,lymphoid	Imaging;Transcriptomics
+LCL-1306	MS751	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervix carcinoma	Imaging
+LCL-1516	OC 314	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovarian cystadenocarcinoma	Imaging
+LCL-1447	EW-11	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1807	DMS 273	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1107	Ku812E	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1831	DMS 153	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1166	T84	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1616	NCI-H2110	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1146	DU145	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	prostate	prostate carcinoma	Imaging
+LCL-1539	AMO1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	plasmacytoma	Imaging
+LCL-1327	HCC2157	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	ductal carcinoma	Imaging
+LCL-1587	LK-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1410	A673;A-673	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	muscle	ewing's sarcoma;rhabdomyosarcoma	Transcriptomics;Imaging
+LCL-1297	KGN	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	granulosa cell tumor	Imaging
+LCL-1742	Panc 08.13	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1683	CAL-62	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	thyroid carcinoma	Imaging
+LCL-1404	A-431	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	skin squamous cell carcinoma	Imaging
+LCL-1941	SK-HEP-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1524	OVISE	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-1883	Hs 746.T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1576	Daoy	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	medulloblastoma	Imaging
+LCL-1563	HCE-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1691	CGTH-W-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	thyroid carcinoma	Imaging
+LCL-1942	PLC/PRF/5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1916	MDA-MB-157	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	breast medullary carcinoma	Imaging;Binding
+LCL-1041	SUP-B15	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1134	SU-DHL-10	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1405	DJM-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	skin squamous cell carcinoma	Imaging
+LCL-1703	1A6	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-1288	CaR-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	rectum adenocarcinoma	Imaging
+LCL-1445	ES8	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1299	PC-3;PC3	Cell Line	CMT_MGH;HMS_LINCS;MEP_LINCS;BroadT_LINCS;BroadT_LINCS;PCCSE	Fluorescence imaging cell growth inhibition assay;KiNativ kinase-small molecule binding assay;MEMA cell growth assay;L1000 mRNA profiling assay;Global chromatin epigenetic profiling assay;P100 phosphoprotein quantification assay	prostate	prostate adenocarcinoma	Binding;Imaging;Transcriptomics;Proteomics;Epigenomics
+LCL-1705	RT112/84	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-1765	LB1047-RCC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-2160	SW948	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	large intestine		Transcriptomics
+LCL-2021	Jiyoye	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1774	Caki-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal clear cell carcinoma	Imaging
+LCL-1791	HuP-T4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreatic carcinoma	Imaging
+LCL-1842	NCIH1836;NCI-H1836	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Transcriptomics;Imaging
+LCL-1600	A-427	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1912	NCI-H1404	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung papillary adenocarcinoma	Imaging
+LCL-1490	SW684	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	adult fibrosarcoma	Imaging
+LCL-1947	JM1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-2028	BL-41	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	pediatric lymphoma	Imaging
+LCL-1112	EM-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1236	1205Lu	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1882	HGC-27	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1686	8505C	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	thyroid carcinoma	Imaging
+LCL-1692	K5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	follicular thyroid carcinoma	Imaging
+LCL-2049	RPMI-8226	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	myeloma	Imaging
+LCL-1355	LNZTA3WT11	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1809	Lu-135	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1875	H69V	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1727	PL45	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1545	BOKU	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervical squamous cell carcinoma	Imaging
+LCL-1660	NCI-H1395	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1754	QGP-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	somatostatinoma	Imaging
+LCL-1113	RPMI-8866	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1241	COLO 857	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1156	C170	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1507	ESS-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	endometrial stromal sarcoma	Imaging
+LCL-1994	SJNB-17	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1360	U-373MG Uppsala	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1724	KP-3L	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-2151	HEC108	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	endometrium		Transcriptomics
+LCL-1848	NCI-H2106	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-2043	KMS-12-BM	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	myeloma	Imaging
+LCL-1448	EW-13	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1341	SNU-C2B	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	cecum adenocarcinoma	Imaging
+LCL-1605	HCC366	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1918	SU-DHL-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	pediatric lymphoma	Imaging
+LCL-2013	RPMI-6666	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system		Imaging
+LCL-1137	SU-DHL-5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1159	COLO 206F	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1969	SK-N-AS	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1914	CCRF-HSB-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1091	MLMA	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1508	SK-UT-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	uterine cancer	Imaging
+LCL-1629	NCI-H647	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1803	RKN	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary leiomyosarcoma	Imaging
+LCL-1700	TYK-nu;TYKNU	Cell Line	CMT_MGH;BroadT_LINCS;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	ovary	ovarian carcinoma;carcinoma| undifferentiated	Imaging;Transcriptomics
+LCL-1852	NCI-H220	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1858	NCI-H526	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-2091	K2	Cell Line	HMS_LINCS;HMS_LINCS	Fluorescence imaging apoptosis assay;RPPA protein state assay	skin	malignant melanoma	Imaging;Proteomics
+LCL-2058	NCI-H1304	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1270	CP50-MEL-B	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1801	KG-1-C	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	mixed glioma	Imaging
+LCL-1987	LA-N-5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1879	SBC-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung oat cell carcinoma	Imaging
+LCL-1682	ASH-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	thyroid carcinoma	Imaging
+LCL-1108	Ku812F	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1109	LAMA-84	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1395	LN-405	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	astrocytoma	Imaging
+LCL-1991	SJNB-13	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1080	KO52	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1282	SK-MEL-5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1451	EW-24	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1736	HPAF-II	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1761	A-498	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1676	SW13	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	adrenal gland	adrenal cortical adenocarcinoma	Imaging
+LCL-1698	OAW28	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovarian carcinoma	Imaging
+LCL-1895	GT3TKB	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric adenocarcinoma	Imaging
+LCL-1177	HCC-56	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1352	GMS-10	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1015	Karpas-45	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1514	SiSo	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervical adenocarcinoma	Imaging
+LCL-1822	SCLC-21H	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1024	TALL-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1518	A2780	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	carcinoma	Imaging
+LCL-1806	ES-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovarian clear cell adenocarcinoma	Imaging
+LCL-1426	KHOS-240S	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-2064	T47D-KBluc	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-1427	KHOS-312H	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1631	Calu-3	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	lung	lung adenocarcinoma	Imaging
+LCL-1697	OVCAR-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovarian carcinoma	Imaging
+LCL-1548	KYSE-150	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	esophagus	esophageal squamous cell carcinoma	Imaging
+LCL-2130	HMEC122L	Cell Line	MEP_LINCS	MEMA cell growth assay	breast		Imaging
+LCL-1373	D-392MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1707	LB831-BLC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary tract	bladder carcinoma	Imaging
+LCL-1821	SBC-5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1181	LoVo	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	intestine	colon carcinoma;colorectal adenocarcinoma	Imaging;Transcriptomics
+LCL-2148	NCIH508	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	large intestine		Transcriptomics
+LCL-1861	NCI-H748	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1090	MEC-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1589	LUDLU-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1745	PaTu 8988s	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1162	HT115	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Transcriptomics;Imaging
+LCL-1165	OUMS-23	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1438	TC-71	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1110	MEG-01	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1644	NCI-H1792	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1525	OVKATE	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-1970	SK-N-DZ	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1035	CEM/C2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1189	COLO 320HSR	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-2073	600MPE	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-1690	TT	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	thyroid carcinoma	Imaging
+LCL-1289	HRT-18	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	rectum adenocarcinoma	Imaging
+LCL-1346	SNB-75	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell cycle state assay	brain	glioblastoma	Imaging
+LCL-2057	NC-37	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1305	ME-180	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervix carcinoma	Imaging
+LCL-1399	SW1783	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	astrocytoma	Imaging
+LCL-1627	NCI-H2126	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1797	OE33	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus adenocarcinoma	Imaging
+LCL-1291	SW1463	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	rectum adenocarcinoma	Imaging
+LCL-1169	WiDr	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	intestine	colon adenocarcinoma	Imaging
+LCL-1652	NCI-H2228	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1455	RD-ES	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	bone Ewings sarcoma	Imaging
+LCL-2034	A-253	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	submandibular gland cancer	Imaging
+LCL-1183	LS180	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma;colon adenocarcinoma	Imaging
+LCL-1731	BxPC-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1977	NB-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1751	G-402	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	smooth muscle cancer	Imaging
+LCL-1850	NCI-H2141	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1119	DB	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-2133	HT29.311	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	large intestine		Transcriptomics
+LCL-2156	MCH58	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	skin		Transcriptomics
+LCL-1349	DBTRG-05MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1995	SJNB-5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1622	NCI-H522	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	adenocarcinoma	Imaging
+LCL-2150	COV644	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	ovary		Transcriptomics
+LCL-1520	Caov-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-1116	DERL-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1904	Lu-65	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung giant cell carcinoma	Imaging
+LCL-1555	KYSE-510	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1779	COR-L23/CPR	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung large cell carcinoma	Imaging
+LCL-1386	Onda 10	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1444	ES7	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-2020	GA-10	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-2099	HeLa ICRP FLIP-L-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging apoptosis assay	cervix	cervical adenocarcinoma	Imaging
+LCL-1356	M059J	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1522	OVCAR-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-1757	CAL-54	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1012	CCRF-CEM	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1792	YAPC	Cell Line	BroadT_LINCS;PCCSE;CMT_MGH;MEP_LINCS	L1000 mRNA profiling assay;Global chromatin epigenetic profiling assay;P100 phosphoprotein quantification assay;Fluorescence imaging cell growth inhibition assay;MEMA cell growth assay	pancreas	pancreatic carcinoma;pancreas_adenocarcinoma	Transcriptomics;Proteomics;Epigenomics;Imaging
+LCL-1308	BT-474	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell count assay	breast	invasive ductal carcinoma	Binding;Imaging
+LCL-1693	IHH-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	papillary thyroid carcinoma	Imaging
+LCL-1124	Toledo	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1812	NCI-H1876	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1509	MES-SA	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	uterine cancer	Imaging
+LCL-1993	NB16	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1749	PSN1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1206	HSC-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	oral cavity cancer	Imaging
+LCL-1272	GAK	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-2094	BCWM.1	Cell Line	HMS_LINCS	KiNativ kinase-small molecule binding assay	blood	lymphoplasmacytic lymphoma	Binding
+LCL-1505	KLE	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	endometrial carcinoma	Imaging
+LCL-1225	SCC-9	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1734	DAN-G	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1275	LB373-MEL-D	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1468	MDA-MB-361	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	adenocarcinoma	Imaging;Binding
+LCL-1020	P12-Ichikawa	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1826	COR-L51	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1252	Mel JuSo	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1964	CHP-212	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1610	NCI-H1435	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	adenocarcinoma	Imaging
+LCL-1191	HCC2998	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1030	Jurkat E6.1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1033	CEM-ON	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1643	NCI-H1781	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1633	NCI-H1651	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	lung	lung adenocarcinoma	Imaging
+LCL-1897	ECC10	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1868	IST-SL1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-2035	GA-10 clone 20	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1873	Lu-165	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1638	NCI-H1573	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1639	NCI-H1623	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1935	SNU-423	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1573	BB30-HNC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	esophagus squamous cell carcinoma	Imaging
+LCL-1678	FTC-238	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	follicular thyroid carcinoma	Imaging
+LCL-1775	KMRC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal clear cell carcinoma	Imaging
+LCL-1552	KYSE-270	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-2096	HeLa ICRP	Cell Line	HMS_LINCS	Fluorescence imaging apoptosis assay	cervix	cervical adenocarcinoma	Imaging
+LCL-1036	DND-41	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1719	SW1710	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-1389	SF268	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1872	Lu-139	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-2122	MCF 10A F3aN400S294A/S344A-Venus-P2A-NLS-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging protein state assay	breast		Imaging
+LCL-2120	184A1 F3aN400-Venus NLS-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging protein state assay	breast		Imaging
+LCL-1328	HCC2218	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	invasive ductal carcinoma	Imaging
+LCL-1743	Panc 10.05	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1919	SUP-M2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1129	SR	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1582	NCI-H1703	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell cycle state assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1513	Hs 588.T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervical adenocarcinoma	Imaging
+LCL-1313	Evsa-T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	carcinoma	Imaging
+LCL-1358	U-118MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1625	NCI-H1770	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1266	SK-MEL-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1369	CAS-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1764	HA7-RCC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1824	SW1271	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1810	NCI-H1048	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1709	T24	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	urinary bladder	bladder transitional cell carcinoma	Imaging
+LCL-2061	MOLT-14	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1198	HCT 8	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-1260	WM115	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging apoptosis assay;RPPA protein state assay;Fluorescence imaging protein state assay;Fluorescence imaging cell growth inhibition assay	skin	malignant melanoma	Imaging;Proteomics
+LCL-2082	MCF-12A	Cell Line	HMS_LINCS;HMS_LINCS	Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell count assay	breast		Binding;Imaging
+LCL-1277	MMAc-SF	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging apoptosis assay;RPPA protein state assay;Fluorescence imaging cell growth inhibition assay	skin	malignant melanoma	Imaging;Proteomics
+LCL-1456	RH1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	peripheral primitive neuroectodermal tumor	Imaging
+LCL-1559	KYSE-220	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1930	JHH-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1298	LNCAP;LNCaP	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	prostate	carcinoma;prostate adenocarcinoma	Transcriptomics;Imaging
+LCL-1863	NCI-H847	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1577	D283 Med	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	medulloblastoma	Imaging
+LCL-1911	NCI-H441	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung papillary adenocarcinoma	Imaging
+LCL-1711	CAL-29	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-1818	NCI-H2286	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1857	NCI-H524	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1760	VMRC-RCZ	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-2141	HA1E.311	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	kidney		Transcriptomics
+LCL-1975	MHH-NB-11	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1674	NCI-H322M	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1100	JVM-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1276	LOX-IMVI	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging apoptosis assay;RPPA protein state assay;Fluorescence imaging protein state assay;Fluorescence imaging cell growth inhibition assay	skin	malignant melanoma	Imaging;Proteomics
+LCL-1795	MZ-PC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreatic carcinoma	Imaging
+LCL-1233	COLO 800	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	skin	malignant melanoma	Imaging
+LCL-1591	NCI-H520	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1771	TK-10	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1290	RCM-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	rectum adenocarcinoma	Imaging
+LCL-1547	KYSE-140	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging apoptosis assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell cycle state assay	esophagus	esophageal squamous cell carcinoma	Imaging
+LCL-1379	GI-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1479	EFM-192C	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay	breast	breast carcinoma;breast adenocarcinoma	Imaging
+LCL-2159	SW480	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	large intestine		Transcriptomics
+LCL-1568	TE-15	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-2010	L-1236	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system		Imaging
+LCL-2051	SK-MM-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	myeloma	Imaging
+LCL-1102	JURL-MK2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	chronic myeloid leukemia	Imaging
+LCL-1442	ES5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1192	KM12	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1296	C2BBe1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-2039	J.gamma1.WT	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	leukemia	Imaging
+LCL-1712	HT-1376	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	carcinoma	Imaging
+LCL-1613	NCI-H1869	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1739	Panc 02.03	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-2102	MCF-10F	Cell Line	HMS_LINCS;HMS_LINCS	Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell count assay	breast		Binding;Imaging
+LCL-1120	Karpas-422	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1732	Capan-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-2157	SNU1040	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	large intestine		Transcriptomics
+LCL-2085	MCF-10A;MCF10A	Cell Line	HMS_LINCS;HMS_LINCS;HMS_LINCS;MEP_LINCS;HMS_LINCS;HMS_LINCS;HMS_LINCS;PCCSE;HMS_LINCS;MEP_LINCS;HMS_LINCS;BroadT_LINCS;HMS_LINCS	Fluorescence imaging multiplex cytological profiling assay;Fluorescence imaging morphology assay;Fluorescence imaging cell count assay;MEMA cell growth assay;Fluorescence imaging cell viability assay;Fluorescence imaging protein state assay;ELISA protein state assay;Global chromatin epigenetic profiling assay;P100 phosphoprotein quantification assay;L1000 mRNA profiling assay	breast		Imaging;Binding;Proteomics;Epigenomics;Transcriptomics
+LCL-1202	HO-1-u-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	oral cavity cancer	Imaging
+LCL-1224	SCC-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1320	UACC-893	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell count assay	breast	invasive ductal carcinoma	Binding;Imaging
+LCL-1817	NCI-H2198	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1046	HAL-01	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1981	SK-N-FI	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1228	IST-Mes1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pleura	malignant mesothelioma	Imaging
+LCL-1992	SJNB-14	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1741	Panc 04.03	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1574	BB49-HNC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	esophagus squamous cell carcinoma	Imaging
+LCL-1896	RF-48	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric adenocarcinoma	Imaging
+LCL-1952	VL51	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1962	TGW	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	adrenal gland	adrenal neuroblastoma	Imaging
+LCL-1032	P116.cl39	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1549	KYSE-180	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	esophagus	esophageal squamous cell carcinoma	Imaging
+LCL-1067	OCI-AML5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1452	EW-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1939	HLE	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1013	CTV-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1388	SF126	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1784	NCI-H460	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung large cell carcinoma	Imaging
+LCL-1295	SW954	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	vulva	vulva squamous cell carcinoma	Imaging
+LCL-1114	TASK1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	Askins tumor	Imaging
+LCL-1122	Pfeiffer	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	diffuse large B-cell lymphoma	Imaging
+LCL-1194	SNU-C1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	adenocarcinoma	Imaging
+LCL-1493	MCAS	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	mucinous cystadenocarcinoma	Imaging
+LCL-1330	HCC1395	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	invasive ductal carcinoma	Imaging;Binding
+LCL-2071	SUM52PE	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-1917	MKN1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric adenosquamous carcinoma	Imaging
+LCL-1409	A-204	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	muscle	rhabdomyosarcoma	Imaging
+LCL-2149	CL34	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	large intestine		Transcriptomics
+LCL-2011	L-428	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system		Imaging
+LCL-2098	HeLa ICRP Bcl-XL-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging apoptosis assay	cervix	cervical adenocarcinoma	Imaging
+LCL-1141	HH	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	cutaneous T cell lymphoma	Imaging
+LCL-1666	HOP-62	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1431	U2OS	Cell Line	Broad_Therapeutics;BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging multiplex cytological profiling assay;Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Transcriptomics;Imaging
+LCL-2158	SNUC5	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	large intestine		Transcriptomics
+LCL-1581	EPLC-272H	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1715	KU-19-19	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-1441	ES4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1474	SW527	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	breast	breast carcinoma	Imaging
+LCL-1413	TE 441.T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	muscle	rhabdomyosarcoma	Imaging
+LCL-2124	184A1 F3aN400-Venus-P2A-NLS-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging protein state assay	breast		Imaging
+LCL-1057	KG-1a	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1209	HN	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	oral cavity cancer	Imaging
+LCL-1583	SK-MES-1	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell cycle state assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1118	CTB-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	diffuse large B-cell lymphoma	Imaging
+LCL-1215	CAL-27	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1500	MFE-280	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	endometrial carcinoma	Imaging
+LCL-1007	NALM-6	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1556	KYSE-520	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1095	Tanoue	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1484	MDA-MB-157	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell count assay	breast	breast carcinoma	Imaging
+LCL-1853	NCI-H2227	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1978	NH-12	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1164	MDST8	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	intestine	colon carcinoma;colorectal carcinoma	Imaging;Transcriptomics
+LCL-1788	HuCC-T1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	biliary tract	bile duct carcinoma	Imaging
+LCL-1564	TE-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-2065	SUM229PE	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-1332	HCC1954	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	invasive ductal carcinoma	Imaging;Binding
+LCL-1949	HT	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1348	A-172	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1960	HCC1806	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell count assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	primary acantholytic squamous cell carcino	Imaging;Binding
+LCL-1486	T-47D	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	breast carcinoma	Imaging;Binding
+LCL-1881	RPMI-2650	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	nasal cavity squamous cell carcinoma	Imaging
+LCL-2072	MX-1	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-1387	Onda 11	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1173	COLO 205	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-2014	SUP-HD1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system		Imaging
+LCL-1176	GP5d	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	adenocarcinoma	Imaging
+LCL-1432	NOS-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1157	SW620	Cell Line	CMT_MGH;HMS_LINCS;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay;L1000 mRNA profiling assay	intestine	colon carcinoma	Imaging;Transcriptomics
+LCL-1418	143B pML BK TK	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1838	NCI-H1436	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1133	RL	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1117	Karpas-299	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	anaplastic large cell lymphoma	Imaging
+LCL-2004	621-101	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	kidney angiomyolipoma	Imaging
+LCL-1663	NCI-H1975	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1884	IM95	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric adenocarcinoma	Imaging
+LCL-1333	HCC202	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	invasive ductal carcinoma	Imaging;Binding
+LCL-1778	IA-LM	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell cycle state assay;Fluorescence imaging apoptosis assay	lung	lung large cell carcinoma	Imaging
+LCL-1835	MS-1 [Human lung carcinoma]	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1603	CAL-12T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1463	CAL-120	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay	breast	breast adenocarcinoma	Imaging
+LCL-1609	NCI-H1299;H1299	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	lung	non-small cell lung carcinoma;carcinoma	Imaging;Transcriptomics
+LCL-1259	WM266-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1391	SK-MG-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-2053	Karpas-620	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1249	IGR-39	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1834	Lu-134-B	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1551	COLO 680N	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1790	HuP-T3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreatic carcinoma	Imaging
+LCL-1814	NCI-H2029	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1959	JSC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1153	NCI-H727	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung cancer	Imaging
+LCL-1467	HCC1428	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell count assay	breast	adenocarcinoma	Binding;Imaging
+LCL-2036	HS-Sultan	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1846	NCI-H2081	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-2097	HeLa ICRP Bcl-2-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging apoptosis assay	cervix	cervical adenocarcinoma	Imaging
+LCL-1161	HCT116;HCT 116	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	intestine	colorectal carcinoma;colon carcinoma	Transcriptomics;Imaging
+LCL-1227	KOSC-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1720	TCCSUP	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-1570	TE-6	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1750	SW1990	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1428	MG-63	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1546	OMC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervical squamous cell carcinoma	Imaging
+LCL-1645	NCI-H1793	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1403	SCCH-196	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	small cell sarcoma	Imaging
+LCL-1469	MDA-MB-415	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	adenocarcinoma	Binding;Imaging
+LCL-1677	FTC-133	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	follicular thyroid carcinoma	Imaging
+LCL-2119	MCF 10A-H2B-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging cell viability assay	breast		Imaging
+LCL-1453	EW-7	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1998	NBsusSR	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1485	MDA-MB-453	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	breast carcinoma	Imaging;Binding
+LCL-1430	SaOS-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1588	LOU-NH91	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1621	NCI-H2444	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1685	8305C	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	thyroid carcinoma	Imaging
+LCL-1828	COR-L95	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1475	SK-BR-3;SKBR3	Cell Line	HMS_LINCS;HMS_LINCS;CMT_MGH;HMS_LINCS;HMS_LINCS;BroadT_LINCS	Fluorescence imaging morphology assay;Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay;L1000 mRNA profiling assay	breast	adenocarcinoma, breast carcinoma	Imaging;Binding;Transcriptomics
+LCL-2027	Ramos.2G6.4C10	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1481	HDQ-P1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	breast carcinoma	Imaging
+LCL-1443	ES6	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1006	CCRF-SB	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1586	LC-1/sq	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1869	IST-SL2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1746	PaTu 8988t	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1759	VMRC-RCW	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-2135	PC3.101	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	prostate		Transcriptomics
+LCL-1347	42-MG-BA	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	malignant glioma	Imaging
+LCL-2033	Ca9-22	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	head and neck	malignant gingival tumor	Imaging
+LCL-1526	OVMIU	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LCL-1042	697	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1240	COLO 853	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1640	NCI-H1693	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1149	A3/Kawakami	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	gastric lymphoma	Imaging
+LCL-1310	BT-549	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	invasive ductal carcinoma	Imaging;Binding
+LCL-1193	LS123	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-1400	U-251 MG	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	astrocytoma;malignant glioma	Imaging
+LCL-1620	NCI-H2347	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	adenocarcinoma	Imaging
+LCL-1649	NCIH2073;NCI-H2073	Cell Line	BroadT_LINCS;CMT_MGH	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Transcriptomics;Imaging
+LCL-1684	KMH-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	thyroid carcinoma	Imaging
+LCL-2125	184A1 F3aN400S294A/S344A-Venus-P2A-NLS-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging protein state assay	breast		Imaging
+LCL-1195	SW403	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma;colon adenocarcinoma	Imaging
+LCL-1154	UMC-11	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1014	J.RT3-T3.5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-2018	Daudi	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1999	NB69	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1082	HL60(S)	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1414	Rh30	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	muscle	alveolar rhabdomyosarcoma	Imaging
+LCL-1368	Becker	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-2052	JJN-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1450	EW-18	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1502	MFE-319	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	uterus	endometrial carcinoma	Imaging
+LCL-1203	BICR 10	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1653	NCI-H2291	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1922	MKN28	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric tubular adenocarcinoma	Imaging
+LCL-1656	PC-14	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1449	EW-16	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	bone Ewings sarcoma	Imaging
+LCL-1617	NCI-H2135	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1411	RD	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	muscle	rhabdomyosarcoma	Imaging
+LCL-1421	HOS	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-2003	KATO III	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell cycle state assay	stomach	gastric signet ring cell adenocarcinoma	Imaging
+LCL-1730	AsPC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1651	NCI-H2122	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1462	AU565	Cell Line	HMS_LINCS;HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell count assay;Fluorescence imaging cell growth inhibition assay	breast	adenocarcinoma	Binding;Imaging
+LCL-1089	MEC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1598	NCI-H1915	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1898	ECC12	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric adenocarcinoma	Imaging
+LCL-1028	I 9.2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-1361	YKG-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1580	Calu-1	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	lung	epidermoid lung carcinoma	Imaging
+LCL-1618	NCI-H2172	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1139	SU-DHL-8	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1344	TGBC24TKB	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	biliary tract	carcinoma	Imaging
+LCL-2140	YAPC.311	Cell Line	BroadT_LINCS;PCCSE	L1000 mRNA profiling assay;Global chromatin epigenetic profiling assay;P100 phosphoprotein quantification assay	pancreas		Transcriptomics;Proteomics;Epigenomics
+LCL-1185	SW1417	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1679	ML-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	follicular thyroid carcinoma	Imaging
+LCL-2031	EB2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1961	MDA-MB-330	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	mixed epithelial/mesenchymal metaplastic breast carcinoma	Imaging
+LCL-1051	CMK	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1642	NCI-H1755	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1862	NCI-H82	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1965	IMR-32	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1424	HuO9N2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1907	Lu-65C	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung giant cell carcinoma	Imaging
+LCL-1876	KHM-3S	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1008	U-698-M	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1860	NCI-H719	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1401	H4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	malignant glioma	Imaging
+LCL-1762	A-704	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1069	P31/FUJ	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1721	UM-UC-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-1859	NCI-H69	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-2017	CA46	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	Burkitts lymphoma	Imaging
+LCL-1717	RT-4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-1353	LN-18	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1056	KG-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1417	143B	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1163	HT-55	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1459	SW872	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	liposarcoma	Imaging
+LCL-1899	NUGC-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1920	TOV-112D	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	endometrioid ovary carcinoma	Imaging
+LCL-1097	Ramos	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;KiNativ kinase-small molecule binding assay	blood		Binding;Imaging
+LCL-1681	TT2609-C02	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	follicular thyroid carcinoma	Imaging
+LCL-1144	H9	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	cutaneous T cell lymphoma	Imaging
+LCL-1009	MHH-CALL-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1957	BC-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1533	AZ-521	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric adenocarcinoma	Imaging
+LCL-1908	Lu-99A	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung giant cell carcinoma	Imaging
+LCL-2100	HeLa ICRP FLIP-S-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging apoptosis assay	cervix	cervical adenocarcinoma	Imaging
+LCL-1804	SKG-IIIa	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervical clear cell adenocarcinoma	Imaging
+LCL-1040	RS4;11	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1086	HC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1262	WM278	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1569	TE-5	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus squamous cell carcinoma	Imaging
+LCL-1210	SAT [Human HNSCC]	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	oral cavity cancer	Imaging
+LCL-2076	MCF-7/LY2	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-2126	184A1 F3aN400T32A/S253A/S315A-Venus-P2A-NLS-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging protein state assay	breast		Imaging
+LCL-1954	WSU-DLCL2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1398	SW1088	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	astrocytoma	Imaging
+LCL-1385	NMC-G1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-2069	SUM185PE	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-2002	OCUM-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric signet ring cell adenocarcinoma	Imaging
+LCL-1059	ME-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1436	Hs 633.T	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	fibrosarcoma	Imaging
+LCL-2070	SUM225CWN	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-1094	ROS-50	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1068	OCI-M1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1147	VCaP;VCAP	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	prostate	prostate carcinoma	Imaging;Transcriptomics
+LCL-1491	JAR	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	miscellaneous	choriocarcinoma	Imaging
+LCL-1909	Lu-99B	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung giant cell carcinoma	Imaging
+LCL-1055	Kasumi-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1536	MKN74	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	gastric adenocarcinoma	Imaging
+LCL-2077	ZR-75-B	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-2062	Peer	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1634	ABC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1924	Hep 3B2.1-7	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-2005	HuT 78	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	non-Hodgkin lymphoma	Imaging
+LCL-1186	SW 48	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma;colon adenocarcinoma	Imaging
+LCL-1204	HO-1-N-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1396	MOG-G-CCM	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	astrocytoma	Imaging
+LCL-2144	SKM1	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
+LCL-1268	A4/Fukuda	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1461	MDA-MB-231	Cell Line	HMS_LINCS;BroadT_LINCS;CMT_MGH;HMS_LINCS;HMS_LINCS;HMS_LINCS;HMS_LINCS	Fluorescence imaging protein state assay;ELISA protein state assay;L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell count assay;Fluorescence imaging morphology assay	breast	breast adenocarcinoma	Binding;Imaging;Transcriptomics
+LCL-1216	CAL-33	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	squamous cell carcinoma	Imaging
+LCL-1886	NCI-N87	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	stomach	stomach carcinoma	Imaging
+LCL-1488	YMB-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	breast carcinoma	Imaging
+LCL-1026	A3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute T cell leukemia	Imaging
+LCL-2121	MCF 10A F3aN400-Venus-P2A-NLS-mCherry	Cell Line	HMS_LINCS	Fluorescence imaging protein state assay	breast		Imaging
+LCL-1127	NK-92MI	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	mature T-cell and NK-cell neoplasm	Imaging
+LCL-1230	NCI-H2452	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	malignant mesothelioma	Imaging
+LCL-1408	Rh30	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell cycle state assay	muscle	rhabdomyosarcoma	Imaging
+LCL-1985	KP-N-YN	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-2059	ALL-SIL	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1329	HCC1143	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell count assay	breast	invasive ductal carcinoma	Imaging
+LCL-1612	NCI-H1650	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	adenocarcinoma	Imaging
+LCL-1646	NCI-H1993	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1830	DMS 114	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1143	DoHH2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	cutaneous T cell lymphoma	Imaging
+LCL-1167	CL-11	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1758	SW156	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1471	MDA-MB-468	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS;HMS_LINCS	KiNativ kinase-small molecule binding assay;Fluorescence imaging cell growth inhibition assay;ELISA protein state assay;Fluorescence imaging cell count assay	breast	adenocarcinoma	Binding;Imaging
+LCL-2066	SUM1315MO2	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-1777	S-117	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	thyroid sarcoma	Imaging
+LCL-1767	LB996-RCC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-1748	CFPAC-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1913	YT	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	acute T cell leukemia	Imaging
+LCL-1670	NCI-H810	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	lung	lung adenocarcinoma;NSCLC giant cell carcinoma	Imaging
+LCL-1635	COR-L105	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung adenocarcinoma	Imaging
+LCL-1729	SUIT-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-1062	Mono-Mac-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1608	HCC827	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1478	EFM-192A	Cell Line	HMS_LINCS;CMT_MGH	Fluorescence imaging cell growth inhibition assay	breast	breast carcinoma;breast adenocarcinoma	Imaging
+LCL-1630	PC-9	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell cycle state assay;Fluorescence imaging apoptosis assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1594	VMRC-LCP	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1595	LC-1F	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1229	MPP 89	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pleura	malignant mesothelioma	Imaging
+LCL-1302	C-4-II	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	cervix	cervix carcinoma	Imaging
+LCL-1363	SNB-19	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-2044	KMS-12-PE	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	myeloma	Imaging
+LCL-1045	GR-ST	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1334	HCC38	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging protein state assay;ELISA protein state assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell count assay	breast	invasive ductal carcinoma	Binding;Imaging
+LCL-1798	NCI-H322	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	bronchiolo-alveolar adenocarcinoma	Imaging
+LCL-1763	BB65-RCC	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	kidney	renal cell carcinoma	Imaging
+LCL-2008	HD-MY-Z	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system		Imaging
+LCL-1512	HeLa;HELA	Cell Line	BroadT_LINCS;BroadT_LINCS;BroadT_LINCS;CMT_MGH;HMS_LINCS	L1000 mRNA profiling assay;Fluorescence imaging cell growth inhibition assay;KiNativ kinase-small molecule binding assay	cervix	cervical adenocarcinoma	Transcriptomics;Binding;Imaging
+LCL-1979	SiMa	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	neuroblastoma	Imaging
+LCL-1938	HLF	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	liver	hepatoma	Imaging
+LCL-1242	COLO 858	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS;HMS_LINCS;HMS_LINCS	Fluorescence imaging apoptosis assay;RPPA protein state assay;Fluorescence imaging protein state assay;Fluorescence imaging cell growth inhibition assay	skin	malignant melanoma	Imaging;Proteomics
+LCL-1213	BICR 22	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	head and neck	tongue cancer	Imaging
+LCL-1064	NOMO-1/ADM	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute myeloid leukemia	Imaging
+LCL-1425	KHOS/NP	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	bone	osteosarcoma	Imaging
+LCL-1480	HCC1569	Cell Line	CMT_MGH;HMS_LINCS;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging cell count assay;Fluorescence imaging protein state assay;ELISA protein state assay	breast	breast carcinoma	Imaging;Binding
+LCL-1728	KP-2	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreas adenocarcinoma	Imaging
+LCL-2138	MCF7.311	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	breast		Transcriptomics
+LCL-1936	SNU-449	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	liver	hepatocellular carcinoma	Imaging
+LCL-1498	Ishikawa (Heraklio) 02 ER-	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay;Fluorescence imaging cell cycle state assay	uterus	endometrial adenocarcinoma	Imaging
+LCL-1274	LB2518-MEL	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1794	KP-1NL	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	pancreas	pancreatic carcinoma	Imaging
+LCL-1343	TGBC1TKB	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	biliary tract	carcinoma	Imaging
+LCL-1538	MC/CAR	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	plasmacytoma	Imaging
+LCL-2080	184A1	Cell Line	HMS_LINCS	Fluorescence imaging cell count assay	breast		Imaging
+LCL-1037	LC4-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood	acute lymphocytic leukemia	Imaging
+LCL-1180	HT-29	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	intestine	colorectal adenocarcinoma, colon adenocarcinoma	Imaging;Transcriptomics
+LCL-1088	KOPN-8	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1796	OE19	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	esophagus	esophagus adenocarcinoma	Imaging
+LCL-1115	ECC4	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	small cell carcinoma	Imaging
+LCL-1081	HL-60 clone 15	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	blood		Imaging
+LCL-1406	GOS-3	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	oligodendroglioma	Imaging
+LCL-1602	BEN	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	non-small cell lung carcinoma	Imaging
+LCL-1384	KS-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	brain	glioblastoma	Imaging
+LCL-1454	MHH-ES-1	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	nervous system	bone Ewings sarcoma	Imaging
+LCL-1953	TK [Human brain lymphoma]	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	B-cell lymphocytic neoplasm	Imaging
+LCL-1680	WRO	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	thyroid	follicular thyroid carcinoma	Imaging
+LCL-1593	SW900	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung squamous cell carcinoma	Imaging
+LCL-1925	Hep-G2	Cell Line	CMT_MGH;BroadT_LINCS	Fluorescence imaging cell growth inhibition assay;L1000 mRNA profiling assay	liver	hepatocellular carcinoma	Imaging;Transcriptomics
+LCL-1632	NCI-H1648	Cell Line	HMS_LINCS;CMT_MGH;HMS_LINCS	Fluorescence imaging cell cycle state assay;Fluorescence imaging cell growth inhibition assay;Fluorescence imaging apoptosis assay	lung	lung adenocarcinoma	Imaging
+LCL-1815	NCI-H2195	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lung	lung small cell carcinoma	Imaging
+LCL-1714	J82	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder carcinoma	Imaging
+LCL-2109	MWCL-1	Cell Line	HMS_LINCS	KiNativ kinase-small molecule binding assay	blood	lymphoplasmacytic lymphoma	Binding
+LCL-2161	T3M10	Cell Line	BroadT_LINCS	L1000 mRNA profiling assay	lung		Transcriptomics
+LCL-1200	SW1116	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon adenocarcinoma	Imaging
+LCL-1253	MeWo	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	skin	melanoma	Imaging
+LCL-1188	GP2d	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	intestine	colon carcinoma	Imaging
+LCL-1142	MJ	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	lymphatic system	cutaneous T cell lymphoma	Imaging
+LCL-1710	BFTC-905	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	urinary bladder	bladder transitional cell carcinoma	Imaging
+LCL-1529	SW626	Cell Line	CMT_MGH	Fluorescence imaging cell growth inhibition assay	ovary	ovary adenocarcinoma	Imaging
+LDC-1026	CS30iALS_iMNS	Differentiated Cell	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Epigenomics;Proteomics;Transcriptomics
+LDC-1028	CS52iALS_iMNS	Differentiated Cell	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	ATAC-seq epigenetic profiling assay;RNA-seq gene expression profiling assay;SWATH-MS protein quantification assay			Epigenomics;Transcriptomics;Proteomics
+LDC-1029	CS77iSMA_iMNS	Differentiated Cell	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Proteomics;Transcriptomics
+LDC-1027	CS32iSMA_iMNS	Differentiated Cell	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Epigenomics;Proteomics;Transcriptomics
+LDC-1033	NEU	Differentiated Cell	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
+LDC-1021	NPC	Differentiated Cell	PCCSE;BroadT_LINCS	Global chromatin epigenetic profiling assay;P100 phosphoprotein quantification assay;L1000 mRNA profiling assay			Proteomics;Epigenomics;Transcriptomics
+LDC-1023	CS25iCTR_iMNS	Differentiated Cell	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay;ATAC-seq epigenetic profiling assay			Proteomics;Transcriptomics;Epigenomics
+LDC-1036	NPC.CAS9	Differentiated Cell	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
+LDC-1030	CS83iCTR_iMNS	Differentiated Cell	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	RNA-seq gene expression profiling assay;SWATH-MS protein quantification assay;ATAC-seq epigenetic profiling assay			Transcriptomics;Proteomics;Epigenomics
+LPC-1021	GM00232	Primary Cell	NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Transcriptomics;Proteomics;Epigenomics
+LPC-1015	GM02183	Primary Cell	NeuroLINCS	ATAC-seq epigenetic profiling assay;RNA-seq gene expression profiling assay			Transcriptomics;Epigenomics
+LPC-1001	PromoCell cardiomyocytes Line A	Primary Cell	DToxS	RNA-seq gene expression profiling assay			Transcriptomics
+LPC-1017	F09128	Primary Cell	NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Transcriptomics;Proteomics;Epigenomics
+LPC-1023	GM09677	Primary Cell	NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Transcriptomics;Proteomics;Epigenomics
+LPC-1020	F09152	Primary Cell	NeuroLINCS	SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Transcriptomics;Proteomics
+LPC-1008	N2645	Primary Cell	HMS_LINCS	Bead-based immunoassay for protein state			Binding
+LPC-1002	PromoCell cardiomyocytes Line B	Primary Cell	DToxS	RNA-seq gene expression profiling assay			Transcriptomics
+LPC-1019	F10-330	Primary Cell	NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Transcriptomics;Proteomics;Epigenomics
+LCL-1312	EFM-192B	Cell Line	CMT_MGH;HMS_LINCS	Fluorescence imaging cell growth inhibition assay	breast	breast adenocarcinoma;carcinoma	Imaging
+LPC-1004	PromoCell cardiomyocytes Line E	Primary Cell	DToxS	RNA-seq gene expression profiling assay;MS protein state assay			Transcriptomics;Proteomics
+LPC-1011	RA1931	Primary Cell	HMS_LINCS	Bead-based immunoassay for protein state			Binding
+LPC-1007	N2586	Primary Cell	HMS_LINCS	Bead-based immunoassay for protein state			Binding
+LPC-1009	N2759	Primary Cell	HMS_LINCS	Bead-based immunoassay for protein state			Binding
+LPC-1022	83 Fibroblast	Primary Cell	NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Transcriptomics;Proteomics;Epigenomics
+LPC-1010	RA1869	Primary Cell	HMS_LINCS	Bead-based immunoassay for protein state			Binding
+LPC-1014	GM03814	Primary Cell	NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Transcriptomics;Proteomics;Epigenomics
+LPC-1013	RA2708	Primary Cell	HMS_LINCS	Bead-based immunoassay for protein state			Binding
+LPC-1012	RA2159	Primary Cell	HMS_LINCS	Bead-based immunoassay for protein state			Binding
+LPC-1018	F09229	Primary Cell	NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Transcriptomics;Proteomics;Epigenomics
+LPC-1016	ND30625	Primary Cell	NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Transcriptomics;Proteomics;Epigenomics
+LPC-1003	PromoCell cardiomyocytes Line D	Primary Cell	DToxS	RNA-seq gene expression profiling assay;MS protein state assay			Transcriptomics;Proteomics
+LSC-1011	CS83iSMA-n5	iPSC	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	RNA-seq gene expression profiling assay;ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay			Transcriptomics;Epigenomics;Proteomics
+LDC-1025	CS29iALS_iMNS	Differentiated Cell	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Epigenomics;Proteomics;Transcriptomics
+LDC-1024	CS28iALS_iMNS	Differentiated Cell	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	ATAC-seq epigenetic profiling assay;RNA-seq gene expression profiling assay;SWATH-MS protein quantification assay			Epigenomics;Transcriptomics;Proteomics
+LDC-1034	NEU.KCL	Differentiated Cell	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
+LDC-1031	CS83iSMA_iMNS	Differentiated Cell	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	RNA-seq gene expression profiling assay;SWATH-MS protein quantification assay;ATAC-seq epigenetic profiling assay			Transcriptomics;Proteomics;Epigenomics
+LDC-1037	NPC.TAK	Differentiated Cell	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
+LDC-1032	MNEU.E	Differentiated Cell	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
+LDC-1022	CS00iCTR_iMNS	Differentiated Cell	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	RNA-seq gene expression profiling assay;SWATH-MS protein quantification assay;ATAC-seq epigenetic profiling assay			Transcriptomics;Proteomics;Epigenomics
+LSC-1009	CS32iSMA-n3	iPSC	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay;ATAC-seq epigenetic profiling assay			Proteomics;Transcriptomics;Epigenomics
+LSC-1012	CS77iSMA-n5	iPSC	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Epigenomics;Proteomics;Transcriptomics
+LSC-1005	CS28iALS-n2A	iPSC	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay;ATAC-seq epigenetic profiling assay			Proteomics;Transcriptomics;Epigenomics
+LSC-1021	FIBRNPC	iPSC	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
+LSC-1002	CS14iCTR-n6	iPSC	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay			Epigenomics;Proteomics;Transcriptomics
+LSC-1008	CS52iALS-n6A	iPSC	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	RNA-seq gene expression profiling assay;SWATH-MS protein quantification assay			Transcriptomics;Proteomics
+LSC-1006	CS29iALS-n1N	iPSC	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	RNA-seq gene expression profiling assay;ATAC-seq epigenetic profiling assay;SWATH-MS protein quantification assay			Transcriptomics;Epigenomics;Proteomics
+LSC-1003	CS83iCTR-33n1	iPSC	NeuroLINCS;NeuroLINCS;NeuroLINCS	RNA-seq gene expression profiling assay;ATAC-seq epigenetic profiling assay			Transcriptomics;Epigenomics
+LSC-1007	CS30iALS-n1N	iPSC	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	SWATH-MS protein quantification assay;RNA-seq gene expression profiling assay;ATAC-seq epigenetic profiling assay			Proteomics;Transcriptomics;Epigenomics
+LSC-1004	CS25iCTR-18n2	iPSC	NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS;NeuroLINCS	SWATH-MS protein quantification assay;ATAC-seq epigenetic profiling assay;RNA-seq gene expression profiling assay			Proteomics;Epigenomics;Transcriptomics
+LES-1002	HUES3	Embryonic Stem Cell	BroadT_LINCS	L1000 mRNA profiling assay			Transcriptomics
